@@ -4,7 +4,7 @@
 <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/license-GPLV3-blue" alt="license GPLV3"></a>
 <a href="https://www.php.net/releases/7_4_0.php"><img src="https://img.shields.io/badge/.NET-6-orange" alt=".net6"></a>
 <a href="https://github.com/assimon/dujiaoka/releases/tag/1.0.0"><img src="https://img.shields.io/badge/version-1.0.0-red" alt="version 1.0.0"></a>
-<a href="https://aloure-web.top"><img src="https://img.shields.io/badge/Aloure官方频道" alt="官方频道：@CoinConvertChannel"></a>
+<a href="https://aloure-web.top"><img src="https://img.shields.io/badge/Aloure官方频道" alt=""></a>
 <a href="https://aloure-web.top"><img src="https://img.shields.io/badge/官方" alt=""></a>
 </p>
 
